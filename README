@@ -1,0 +1,8 @@
+Goffi is a JavaScript framework for managing and organizing the content and actions of screen widgets (Goffries)
+A goffri can be anything from a window-sized div through a table cell down to an HTML element's attribute - such as "value".
+Goffri currently uses AJAX requests and callbacks to fill the contents of such a goffri.
+Goffri also has a place to hold all available actions for a goffri, so to load, save, refresh, validate, etc. is easier since all actions are in one place.
+Goffri currently uses jQuery to do most of the work, although not tied to jQuery.
+You can use your favorite js framework with Goffi although I will use jQuery only. You are free (and welcome) to add the framework of your choice to Goffri.
+
+Goffri is distributed under GPL license.
