@@ -1,4 +1,4 @@
-Goffi is a JavaScript framework for managing and organizing the content and actions of screen widgets (Goffries)
+Goffi is a JavaScript framework for loading HTML fragments into your page, creating screen widgets (Goffries)
 A goffri can be anything from a window-sized div through a table cell down to an HTML element's attribute - such as "value".
 Goffri currently uses AJAX requests and callbacks to fill the contents of such a goffri.
 Goffri also has a place to hold all available actions for a goffri, so to load, save, refresh, validate, etc. is easier since all actions are in one place.
